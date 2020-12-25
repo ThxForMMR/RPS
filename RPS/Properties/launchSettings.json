@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RPS": {
+      "commandName": "Project",
+      "commandLineArgs": "A B C D E F I "
+    }
+  }
+}
